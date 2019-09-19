@@ -7,17 +7,17 @@ Mặc định,  Windows 2008/2008R2 servers cho phép kết nối hai Remote Des
 ## I. Enable Multiple RDP Sessions :
 ### 1. Kết nối vào server sử dụng ***Remote Desktop***.
 ### 2. Mở Start trên Windows ( phím Windows trên bàn phím)  **Start > Administrative Tools > Remote Desktop Services**.
-![](~/Windows/Pictures/2019-09-19_11-49.png)
+![](Pictures/2019-09-19_11-49.png)
 
 ### 3. **Start > Administrative Tools > Remote Desktop Services > Remote Desktop Session Host Configuration**.
-[](~/Windows/Pictures/2019-09-11-51.png)
+![](Pictures/2019-09-19_11-51.png)
 
 ### 4. Double click **Restrict Each User to a Single Session** và bỏ chọn **Restrict each user to a single session**.
-[](~/Windows/Pictures/2019-09-11-54.png)
+![](Pictures/2019-09-19_11-54.png)
 
 ## II. Disable Multiple RDP Sessions
 Tương tự như **Enable Multiple RDP Sessions** 
 ### 1. Mở Start trên Windows ( phím Windows trên bàn phím)  **Start > Administrative Tools > Remote Desktop Services**.
 ### 2. **Start > Administrative Tools > Remote Desktop Services > Remote Desktop Session Host Configuration**.
 ### 3. Double click **Restrict Each User to a Single Session** và chọn **Restrict each user to a single session**.
-![](~/Windows/Pictures/2019-09-19_11-55.png)
+![](Pictures/2019-09-19_11-55.png)
